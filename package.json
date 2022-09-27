@@ -1,0 +1,28 @@
+{
+  "name": "vue-templete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vueuse/core": "^9.2.0",
+    "vue": "^3.2.39",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.1.111",
+    "@types/node": "^18.7.18",
+    "@unocss/reset": "^0.45.22",
+    "@vitejs/plugin-vue": "^3.1.0",
+    "pnpm": "^7.12.2",
+    "typescript": "^4.8.3",
+    "unocss": "^0.45.22",
+    "vite": "^3.1.3",
+    "vue-tsc": "^0.40.13"
+  }
+}
